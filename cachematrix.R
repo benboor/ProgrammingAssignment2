@@ -1,3 +1,4 @@
+#this produces the matrix to be cached
 
 makeCacheMatrix <- function(x = matrix()) {
 #		these lines define variables to be called later on
